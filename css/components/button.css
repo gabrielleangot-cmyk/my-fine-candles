@@ -1,0 +1,12 @@
+.btn-bordeau{
+	background-color: #901E2E;
+	padding: 15px;
+	border-radius: 5px; 
+	color: #FFE9F0;
+	font-weight: lighter;
+	font-family: Quicksand, sans-serif;
+}
+
+.btn-bordeau:hover{
+	background-color: #F8ACC5;
+}
